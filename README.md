@@ -4,6 +4,10 @@
 ## Creating use cases and domain model
 For "Little animal horror zoo".
 
+Create use cases in groups of approx. 3. Two groups reviews each others result. An example group shows the rest of the class their result.
+
+Student resume:
+Vi har i dag gennemgået opgaven fra i går. Eventuelt fejl og nye metoder er gennemgået. Vi har desuden lavet Use Cases med emnerne CRUD Student, CRUD Teacher, CRUD Event, CRUD Course, Send Message, Register Attendance. Grupperne har slået sig sammen 2 og 2 og vurderet hinandens Use Cases. Dagens kodning lagt op på Github. Vi er er begyndt på "Little Animal Horror Zoo" hvor der skal laves Use Cases.
 
 ## Programming exercise
 1. Create a class named Person. Attributes: name and age
